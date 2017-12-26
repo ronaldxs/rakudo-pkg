@@ -40,6 +40,9 @@ in the Linux distributions. At the moment the following packages are provided
 - Alpine 3.6 x86_64:
 [apk](https://nxadm.github.io/rakudo-pkg/latest-release.html?os=alpine&version=3.6&arch=x86_64)
 ([checksum](https://nxadm.github.io/rakudo-pkg/latest-release-checksum.html?os=alpine&version=3.6&arch=amd64)).
+- Alpine 3.7 x86_64:
+[apk](https://nxadm.github.io/rakudo-pkg/latest-release.html?os=alpine&version=3.7&arch=x86_64)
+([checksum](https://nxadm.github.io/rakudo-pkg/latest-release-checksum.html?os=alpine&version=3.7&arch=amd64)).
 - Centos 7 x86_64:
 [rpm](https://nxadm.github.io/rakudo-pkg/latest-release.html?os=centos&version=7&arch=x86_64)
 ([checksum](https://nxadm.github.io/rakudo-pkg/latest-release-checksum.html?os=centos&version=7&arch=amd64)).
